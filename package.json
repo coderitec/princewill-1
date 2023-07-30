@@ -1,0 +1,28 @@
+{
+  "name": "html",
+  "version": "1.0.0",
+  "description": "About git",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev":"tailwindcss -i ./sunday.css -o ./monday.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coderitec/princewill-1.git"
+  },
+  "keywords": [
+    "push",
+    "add",
+    "commit"
+  ],
+  "author": "Franc Enemuo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coderitec/princewill-1/issues"
+  },
+  "homepage": "https://github.com/coderitec/princewill-1#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.3.3"
+  }
+}
